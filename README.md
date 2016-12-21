@@ -3,8 +3,9 @@ Code and files necessary to run 2AFC behavior and optogenetic control experiment
 
 Maintained by Michael Jacobs, University of Connecticut
 
-For Bpod and PulsePal software, see Sanworks repository at: 	https://github.com/sanworks/Bpod
-|								https://github.com/sanworks/PulsePal
+For Bpod and PulsePal software, see Sanworks repository at: 	
+https://github.com/sanworks/Bpod
+https://github.com/sanworks/PulsePal
 
 
 Includes:  
