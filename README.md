@@ -3,7 +3,7 @@ Code and files necessary to run 2AFC behavior and optogenetic control experiment
 
 Maintained by Michael Jacobs, University of Connecticut
 
-Includes:
+Includes:  
 1. MATLAB code  
 	B. Behavior result plotting scripts  
 	C. Behavior booth calibration results  
