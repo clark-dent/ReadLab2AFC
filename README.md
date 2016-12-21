@@ -8,12 +8,13 @@ For Bpod and PulsePal software, see Sanworks repository at: 	https://github.com/
 
 
 Includes:  
-1. MATLAB code  
-	B. Behavior result plotting scripts  
-	C. Behavior booth calibration results  
-	D. PulsePal scripts  
-2. TDT System 3 code  
-	A. RZ6 circuit files (.rcx)  
-	B. TDT Project and Workbench files  
-	C. FIR filter files from booth calibration  
+
+1. MATLAB code.  
+	B. Behavior result plotting scripts.  
+	C. Behavior booth calibration results.  
+	D. PulsePal scripts.  
+2. TDT System 3 code.  
+	A. RZ6 circuit files (.rcx).  
+	B. TDT Project and Workbench files.  
+	C. FIR filter files from booth calibration.  
       
